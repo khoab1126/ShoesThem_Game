@@ -2,6 +2,7 @@
 
 Project name: Shoes Them Game
 Description: Shoes Them game - Is the game that I will code for my first Unit in GA, that will include all and only front - end skill: JS, CSS, HTML. The whole game is about you want to let your stress away, basicially the user only need to clicking their mouse and their hater gonna hit.
+
 Persona: Whoever want to let their stress away, but not in violence way IRL. They can just come here, then hit their hater so bad :).
 
 MVP:
